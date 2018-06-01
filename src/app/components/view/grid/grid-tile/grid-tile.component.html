@@ -1,0 +1,12 @@
+<div class="container" style="max-width: 20%;max-height:20%; float: left;">
+<div class="thumbnail">
+  <!-- <img [src]="employee.picture" [alt]="employee.name"> -->
+  <img src="http://placehold.it/350x250" [alt]="employee.name">
+  <div class="caption">
+    <h4>{{employee.name}}</h4>
+    <p>{{employee.designation}}</p>
+    <p class="list-group-item-text" style="float: left;"><a href="tel:{{employee.phone}}" class="fa fa-phone" aria-hidden="true"></a></p>
+    <p class="list-group-item-text" style="float: right;"><a href="mailto:{{employee.email}}" class="fa fa-envelope" aria-hidden="true"></a></p>
+  </div>
+</div>
+</div>

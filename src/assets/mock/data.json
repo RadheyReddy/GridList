@@ -1,0 +1,98 @@
+{
+    "employees": [
+      {
+        "name": "John Adams",
+        "designation": "Managing Director, Principal",
+        "phone": "+1 213.327.3600",
+        "email": "john_adams@gensler.com",
+        "picture": "https://static2.gensler.com/uploads/image/2654/filename/thumbs/people_john-adams_01_250x250.jpg",
+        "Expertise": "",
+        "pFlage": false
+      },
+      {
+        "name": "Lauren Adams",
+        "designation": "Brand Design, Principal",
+        "phone": "+1 212.492.3074",
+        "email": "lauren_adams@gensler.com",
+        "picture": "https://static1.gensler.com/uploads/image/21953/filename/thumbs/people_lauren-adams_02_508x508_1508354907_250x250.jpg",
+        "Expertise": "Curabitur hendrerit pretium egestas. Suspendisse vitae lorem eget erat posuere molestie sit amet sit amet sem. Duis sagittis ullamcorper condimentum.",
+        "pFlage": false
+      },
+      {
+        "name": "Lisa Adkins",
+        "designation": "Studio Leader",
+        "phone": "+1 202.263.3408",
+        "email": "lisa_adkins@gensler.com",
+        "picture": "https://static1.gensler.com/uploads/image/4334/filename/thumbs/people_lisa-adkins_01_250x250.jpg",
+        "Expertise": "",
+        "pFlage": false
+      },
+      {
+        "name": "Shamim",
+        "designation": "Design Director, Principal",
+        "phone": "+1 202.263.5408",
+        "email": "Shamim_A@gensler.com",
+        "picture": "https:////static1.gensler.com/uploads/image/14254/filename/thumbs/people_shamim_508x508_1457388593_250x250.jpg",
+        "Expertise": "Curae; Sed fringilla ex ac eros vehicula faucibus.",
+        "pFlage": false
+      },
+      {
+        "name": "Chuck Albright",
+        "designation": "Design Director, Principal",
+        "phone": "+86 (21) 6135.7345",
+        "email": "chuck_albright@gensler.com",
+        "picture": "https://static2.gensler.com/uploads/image/8919/filename/thumbs/people_chuck-albright_02_1413314565_250x250.jpg",
+        "Expertise": "primis in faucibus orci luctus et ultrices posuere",
+        "pFlage": false
+      },
+      {
+        "name": "Ambrose Aliga-Kelly",
+        "designation": "Technical Director, Principal",
+        "phone": "+1 213.327.3430",
+        "email": "ambrose_aliga@gensler.com",
+        "picture": "https://static2.gensler.com/uploads/image/8165/filename/thumbs/people_ambrose-kelly_01_1404244959_250x250.jpg",
+        "Expertise": "Etiam eu egestas sapien. Vestibulum feugiat luctus tellus.",
+        "pFlage": false
+      },
+      {
+        "name": "Jean Anderson",
+        "designation": "Design Experience Leader",
+        "phone": "+1 213.327.5001",
+        "email": "jean_anderson@gensler.com",
+        "picture": "https://static2.gensler.com/uploads/image/6328/filename/thumbs/people_jean-anderson_01_1397768190_250x250.jpg",
+        "Expertise": "Donec ut ipsum rutrum nisl imperdiet lacinia. Donec at bibendum neque. Cras faucibus tellus id lacus vehicula convallis. Quisque ut.",
+        "pFlage": false
+      }
+      ,
+      {
+        "name": "Sumita Arora",
+        "designation": "Media Practice Area Leader",
+        "phone": "+1 213.327.2345",
+        "email": "sumita_arora@gensler.com",
+        "picture": "https://static1.gensler.com/uploads/image/18939/filename/thumbs/SumitaArora_508x508_1485366087_250x250.jpg",
+        "Expertise": "Quisque a mattis nisl. Donec dictum varius odio eget semper. Maecenas consectetur lectus sapien, ac laoreet nisi convallis et. Ut.",
+        "pFlage": false
+      }
+      ,
+      {
+        "name": "Jun Asakura",
+        "designation": "Office Director, Principal",
+        "phone": "+1 213.327.3412",
+        "email": "jun_asakura@gensler.com",
+        "picture": "https://static1.gensler.com/uploads/image/21468/filename/thumbs/JunAsakura_Edited_508x508_1505929342_250x250.jpg",
+        "Expertise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspendisse tristique ligula quis iaculis venenatis. Vestibulum ante ipsum primis in faucibus.",
+        "pFlage": false
+      }
+      ,
+      {
+        "name": "Hiro Aso",
+        "designation": "Transportation Practice Area Leader",
+        "phone": "+1 213.327.1201",
+        "email": "Hiro_Aso@gensler.com",
+        "picture": "https://static1.gensler.com/uploads/image/14698/filename/thumbs/people_hiro-aso_508x508_1458585498_250x250.jpg",
+        "Expertise": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras finibus purus diam, nec commodo nunc sollicitudin in. Donec sed dolor.",
+        "pFlage": false
+      }
+    ]
+  }
+  

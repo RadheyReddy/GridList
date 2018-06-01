@@ -29,13 +29,6 @@ const appRoutes: Routes = [
     redirectTo: "view/grid",
     pathMatch: "full"
   }
-
- /*  {
-    path: "view/grid", component: GridComponent
-  },
-  {
-    path: "view/list", component: ListComponent
-  } */
 ];
 
 @NgModule({
